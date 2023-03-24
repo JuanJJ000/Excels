@@ -1,0 +1,9 @@
+Tarea de portafolio
+
+Metodo de la secante y Newton-Raphson
+
+F(X)=e^X - X ; Con X-1= -1 y X0= 0
+
+F(X)=lnx ; Con X-1=2.0 y X0= 1.5
+
+F(x)= 1/2cox - X^2 ; Con X-1=0 y X0= 1 
